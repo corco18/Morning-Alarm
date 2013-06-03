@@ -1,0 +1,10 @@
+Morning alarm:
+
+- design in functie de cele 4 anotimpuri
+- alarma cu voce spunand ora exacta
+- informatii despre vreme (recomandari cu ce ar trebui sa ne imbracam)
+- notificari e-mail
+- notite (to-do list sau calendar)
+- noutati dintr-un anumit domeniu
+- toti utilizatorii aplicatiei sa aiba posibilitatea de a trimite mesaje intre ei
+- acces pe retele sociale
